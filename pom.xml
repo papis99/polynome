@@ -6,7 +6,7 @@
   <name>polynomee</name>
   
   <properties>
-    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.source>6</maven.compiler.source>
   	 <maven.compiler.target>1.6</maven.compiler.target
   <sonar.organization>papis99-1</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
